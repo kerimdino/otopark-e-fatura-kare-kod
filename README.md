@@ -283,7 +283,7 @@
 
 <script>
   // ==== AYARLAR: merkez e-posta adresini buraya girin ====
-  const MERKEZ_EPOSTA = "merkez@ornekotopark.com";
+  const MERKEZ_EPOSTA = "srdckr@gmail.com";
   // =========================================================
 
   let faturaTipi = "bireysel";
@@ -378,8 +378,8 @@
       "Tarih/Saat: " + simdi;
 
     const mailtoLink =
-      "mailto:" + MERKEZ_EPOSTA +
-      "?subject=" + encodeURIComponent(konu) +
+      "mailto:" + srdckr@gmail.com +
+      "?subject=" + encodeURIComponent(Efatura odeme) +
       "&body=" + encodeURIComponent(govde);
 
     window.location.href = mailtoLink;
